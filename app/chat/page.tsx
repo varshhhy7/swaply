@@ -135,9 +135,9 @@ export default function Chat() {
   const [newMessage, setNewMessage] = useState("")
 
   const roomId = `room_${Date.now()}`;
-  const uid=localStorage.getItem('uid');
   
   useEffect(() => {
+    const uid=localStorage.getItem('uid');
     socket.emit("join_room", roomId);
 
     socket.on("receive_message", (data) => {
