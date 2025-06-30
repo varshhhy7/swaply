@@ -1,53 +1,78 @@
 <div align="center">
-  <img src="https://your-logo-url-here.com/logo.png" alt="Swaply Logo" width="120" />
-  <h1>Swaply</h1>
-  <p><strong>The Smarter Way to Trade Coupons</strong></p>
+  
+# 🌀 Swaply
+### _Your Coupons. Your Terms. Your Value._
+
 </div>
 
 ---
 
-## 🌀 What is Swaply?
+## 🌍 What is Swaply?
 
-**Swaply** is a smart, peer-to-peer coupon trading platform that lets users swap, negotiate, and balance the value of their unused coupons in real time.
+**Swaply** is a peer-to-peer coupon exchange platform built to **reclaim the value of unused coupons**. Think of it as a smart, social wallet — where **you don’t lose your deals, you trade them**.
 
----
-
-## 💡 Why Swaply?
-
-Every day, thousands of coupons go unused — locked into wallets, emails, and receipts. Swaply changes that by creating a **live coupon economy**, where users can:
-
-- 🔁 **Trade** their unused coupons with others nearby or online.
-- 💬 **Negotiate** in real-time through chat-based interactions.
-- ⚖️ **Balance value** by combining multiple coupons or adding tokens.
-- 🤝 **Match intelligently** with users who want what you have.
-- 🛡️ **Stay secure** with a system designed to reduce fraud.
+Whether it’s an unused food coupon, a discount from an online store, or a promo code that doesn’t fit your current need — Swaply connects you to someone who *wants* it, and helps you get what *you* want in return.
 
 ---
 
-## 🌐 The Vision
+## 💬 The Experience
 
-Swaply isn’t just an app — it’s a **coupon revolution**.
+🔁 **Match & Swap**  
+AI-powered smart matching finds the right person for your trade — instantly.
 
-We imagine a world where coupons are:
-- Fluid
-- Valuable
-- Social
+💬 **Chat-Based Negotiation**  
+No silent listings. Talk. Negotiate. Add coupons. Balance values. Make it happen.
 
-No more wasting. No more expiration regrets. Just smart, meaningful exchanges.
+🎯 **Value Balancer**  
+Two low-value coupons for one high-value one? Add platform tokens to sweeten the deal.
+
+🎭 **Safe & Verified**  
+We support only **valid coupons** through image-based scanning and community validation.
+
+---
+
+## 🌈 Why Swaply Exists
+
+> _Every year, billions of dollars in coupons go to waste._  
+> **Swaply** was born from a simple idea:  
+> “If I can’t use it, maybe someone else can — and I can get something I actually want.”
+
+Swaply creates a **live marketplace of opportunity** — not just for users, but for brands and local businesses too.
 
 ---
 
-## 🛠️ Coming Soon
+## 🎨 Designed With Vibes
 
-- ✨ Featured coupons from top brands
-- 🔎 AI-suggested swaps
-- 🧠 Fraud protection system
-- 🎁 Sponsored trade campaigns
+Swaply isn't just functional — it’s fun, vibrant, and social.
+
+- 💎 **Glassmorphic UI**
+- 🌙 Dark theme by default
+- 💡 Inspired by Spotify, Apple Music & social marketplaces
+- 📱 Mobile-first, smooth interactions
+
+> **Every trade feels like a win. Every user feels like a pro.**
 
 ---
+
+## 🚧 What’s Next
+
+We’re building powerful features to scale the future of coupon trading:
+
+- 🧠 AI-suggested trades
+- 🕵️ Fraud Detection Engine
+- 🏪 Verified Brand Partners
+- 🎁 Sponsored Giveaways
+- 🌐 Decentralized trade reputation
+
+---
+
+## 🚀 Join the Coupon Revolution
+
+Ready to stop wasting value and start trading smart?
+
+> **Swap Smart. Swap Live. Swaply.**
 
 <div align="center">
-  🚀 Join the movement. Reclaim the value of your wallet.
-  <br/>
-  <strong>Swap smart. Swap live. Swaply.</strong>
+
+
 </div>
